@@ -23,7 +23,7 @@ public class MemberController(DataContext dataContext) : ControllerBase
        
         var member=_dataContext.Members.Find(id);
         if (member == null) return NotFound();
-        return Ok(member);
+        return member;
     }
 
 }
