@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Gal\\net\\angular\\API\\API.csproj": {}
+    "E:\\Gal\\net\\angular\\api\\API.csproj": {}
   },
   "projects": {
-    "E:\\Gal\\net\\angular\\API\\API.csproj": {
+    "E:\\Gal\\net\\angular\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Gal\\net\\angular\\API\\API.csproj",
+        "projectUniqueName": "E:\\Gal\\net\\angular\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "E:\\Gal\\net\\angular\\API\\API.csproj",
+        "projectPath": "E:\\Gal\\net\\angular\\api\\API.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "E:\\Gal\\net\\angular\\API\\obj\\",
+        "outputPath": "E:\\Gal\\net\\angular\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
